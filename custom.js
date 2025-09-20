@@ -23,3 +23,9 @@ $(function () {
         }
     }
 });
+$("#story").click(function() {
+    var message = "给你的信息"; // 可以根据需要修改这段文字
+    var p = document.createElement("p");
+    p.innerHTML = message;
+    $("#texts-container").append(p);
+});
