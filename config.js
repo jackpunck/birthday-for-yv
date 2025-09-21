@@ -31,7 +31,7 @@ var config = {
         "愿你永远都有好运气": "./imgs/87b17167c07b7b62d143a8590c6771ba.jpg",
         "我们即使不见亦能不散": "./imgs/cd8ecb45e695bfae528f1d3087ded46f.jpg",
         "我只愿你一生简单": "./imgs/45cc145bc9b1db786bac27761fc8411b.jpg",
-        "一生平安": "./imgs/cdcb4657e1fb0944625017003ce5d1b7.jpg",
+        "一生平安": "./imgs/a2008dc5207c482fcd017218b411044f",
         "鱼宝放心飞，小狗永相随": "./imgs/0f164115848e54d420f97b35c72cc5d5.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
